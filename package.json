@@ -1,0 +1,24 @@
+{
+  "name": "com.ohze.google.firebase.app",
+  "version": "12.8.0",
+  "displayName": "Firebase App (Core)",
+  "description": "Firebase App is the core library every Firebase package depends on.",
+  "keywords": [
+    "Google",
+    "Firebase",
+    "FirebaseApp",
+    "App"
+  ],
+  "unity": "2021.1",
+  "author": {
+    "name": "Google LLC",
+    "email": "hungpt@sandinh.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HungPT-Ohze/com.homemade.google.firebase.app"
+  },
+  "dependencies": {
+    "com.ohze.google.external-dependency-manager": "1.2.185"
+  }
+}
