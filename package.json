@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HungPT-Ohze/com.homemade.google.firebase.app"
+    "url": "https://github.com/HungPT-Ohze/com.ohze.google.firebase.app"
   },
   "dependencies": {
     "com.ohze.google.external-dependency-manager": "1.2.185"
