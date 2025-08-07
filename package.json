@@ -1,6 +1,6 @@
 {
   "name": "com.undercats..firebase.app",
-  "version": "12.8.1",
+  "version": "12.8.2",
   "displayName": "Firebase App (Core)",
   "description": "Firebase App is the core library every Firebase package depends on.",
   "keywords": [
